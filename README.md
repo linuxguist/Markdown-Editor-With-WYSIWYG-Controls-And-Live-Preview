@@ -3,5 +3,8 @@ An Easy to use Browser Based MarkDown Editor With Live Preview Panel
 
 Browser Based, Cross Platform, Supporting all Operating Systems, Easy Application. No need to remember any markdown syntax anymore. Just Select Your Text and Click on any of the Buttons Above ( Except for some buttons ). See the Below Screenshot for Details.
 
-![Markdown Editor](https://i.imgur.com/o5O7grV.png "Markdown Editor")
+Notes:
 
+This editor has been tested fully on the Firefox Web Browser and is quite successful.
+
+![Markdown Editor](https://i.imgur.com/o5O7grV.png "Markdown Editor")
