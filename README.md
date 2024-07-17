@@ -9,3 +9,5 @@ This editor has been tested fully on the Firefox Web Browser and is quite succes
 
 ![Markdown Editor](https://i.imgur.com/o5O7grV.png "Markdown Editor")
 
+
+
